@@ -1,0 +1,8 @@
+svelte.config.js
+vite.config.js
+
+/build
+/.svelte-kit
+/coverage
+/unittestreports
+/node_modules
